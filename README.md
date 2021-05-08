@@ -15,14 +15,8 @@ also display the pressure.
 
 ## Usage
 
-The controller will start the vacuum pump and let it run till the
-pressure gets to -11 PSI then turn it off. Once the pressure comes back
-up to -8 PSI, the pump again.The range can be changed by pressing the
-blue an yellow buttons to set the upper and lower range respectively to
-the current pressure. Holding a button down will cause the pump to
-run. One can hold the yellow button down till the desired upper bound is
-reached then hold the blue button down till the desired lower bound is
-reached.
+Press the yellow button down till the desired upper bound is reached
+then press the blue button down till the desired lower bound is reached.
 
 ## Building
 
